@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MonsterRunMobile</string>
+    <string name="start">Start</string>
+    <string name="initialScore">Score : 0</string>
+    <string name="highscore">Highest Score : 0</string>
+    <string name="gameover">OOPS! You got eaten by monsters.</string>
+    <string name="appName">MonsterRun</string>
+    <string name="play"> Play</string>
+    <string name="restart">Back to start</string>
+</resources>
